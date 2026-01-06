@@ -20,6 +20,8 @@ body {
     background: #29343D;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 12px;
+    color: #92A4B1;
+    font-size: 22px;
 }
 
 .pc img {
