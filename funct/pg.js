@@ -1,6 +1,6 @@
 const con = document.querySelector(".pc");
 
-for (let i = 1; i <= 13; i++) {
+for (let i = 1; i <= 14; i++) {
   const img = document.createElement("img");
   img.loading = "lazy";
   img.src = `images/img${i}.jpg`;
